@@ -14,7 +14,7 @@ spec:
         kind: Instance
         spec:
           forProvider:
-            region: us-east-1
+            region: cn-northwest-1
             instanceClass: db.t2.small
             username: adminuser
             engine: postgres
