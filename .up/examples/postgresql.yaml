@@ -4,6 +4,6 @@ metadata:
   name: my-db
 spec:
   parameters:
-    region: cn-northwest-1
+    region: west
     size: small
     storage: 20
